@@ -2,8 +2,8 @@
 
 ![](/2.Docs/SCH.jpg)
 
-![](2.Docs\PCBjpg.jpg)
+![](/2.Docs/PCBjpg.jpg)
 
-![](2.Docs\Circuit.jpg)
+![](/2.Docs/Circuit.jpg)
 
-![](2.Docs\real.jpg)
+![](/2.Docs/real.jpg)
